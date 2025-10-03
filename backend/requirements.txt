@@ -27,6 +27,7 @@ gunicorn==23.0.0
 h11==0.16.0
 httpcore==1.0.9
 httplib2==0.22.0
+httptools==0.6.4
 httpx==0.28.1
 idna==3.10
 jiter==0.10.0
@@ -43,6 +44,7 @@ pyjwt==2.10.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
+pyyaml==6.0.3
 requests==2.32.5
 rsa==4.9.1
 six==1.17.0
@@ -59,5 +61,6 @@ typing-inspection==0.4.1
 uritemplate==4.2.0
 urllib3==2.5.0
 uvicorn==0.35.0
+watchfiles==1.1.0
 websockets==15.0.1
 wrapt==1.17.3
